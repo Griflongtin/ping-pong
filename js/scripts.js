@@ -4,15 +4,7 @@ function numberOutput(input){
     if(i % 15 === 0) {
       numberOutput.push(" pingpong");
     }
-    else if(i % 5 === 0) {
-      numberOutput.push(" pong");
-    }
-    else if(i % 3 === 0) {
-      numberOutput.push(" ping");
-    }
-    else {
-      numberOutput.push(i);
-    }
+
   }
   return numberOutput;
 }
