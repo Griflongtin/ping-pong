@@ -4,6 +4,9 @@ function numberOutput(input){
     if(i % 15 === 0) {
       numberOutput.push(" pingpong");
     }
+    else if(i % 5 === 0) {
+      numberOutput.push(" pong");
+    }
 
   }
   return numberOutput;
