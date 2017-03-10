@@ -1,0 +1,10 @@
+body {
+  background-color: blue;
+}
+div {
+  color: red;
+}
+#out {
+  display: none;
+  background-color: orange;
+}

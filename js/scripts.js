@@ -22,6 +22,7 @@ $(document).ready(function() {
     event.preventDefault();
     var input = parseInt($("#numberInput").val());
     var outputNumber = numberOutput(input);
+    $("#out").show();
     $("#output").text(outputNumber);
   });
 });
