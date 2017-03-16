@@ -29,7 +29,7 @@ Let me know if you run into a bugs. You can contact me at "griflongitn@live.com"
 Here is the link to the github page for this website https://github.com/Griflongtin/ping-pong
 
 Here is the link to the page on github pages
-
+https://griflongitn.github.io/ping-pong
 ## Technologies Used
 
 * html
