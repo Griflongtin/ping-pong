@@ -26,7 +26,10 @@ This Wedsite has you put in a number and then it will count up from 1 to the num
 
 Let me know if you run into a bugs. You can contact me at "griflongitn@live.com".
 
-Here is the link to the github pages for this website https://github.com/Griflongtin/ping-pong
+Here is the link to the github page for this website https://github.com/Griflongtin/ping-pong
+
+Here is the link to the page on github pages
+
 ## Technologies Used
 
 * html
